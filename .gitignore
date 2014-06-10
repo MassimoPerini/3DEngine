@@ -19,3 +19,7 @@
 *.exe
 *.out
 *.app
+
+# Shaders
+*.frag
+*.vert
